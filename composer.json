@@ -9,9 +9,6 @@
             "email": "zfm@ifucloud.com"
         }
     ],
-    "repositories": [
-        {"type": "git", "url": "git@github.com:ifucloud/signature.git", "reference":"master"}
-    ],
     "require": {
         "php": ">=7.1.3"
     },
